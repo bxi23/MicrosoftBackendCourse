@@ -1,0 +1,28 @@
+2025-02-01 12:15:09.914 -05:00 [INF] Now listening on: http://localhost:5153
+2025-02-01 12:15:09.946 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-01 12:15:09.946 -05:00 [INF] Hosting environment: Development
+2025-02-01 12:15:09.946 -05:00 [INF] Content root path: C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstWebApps\LoggingLab-Solution
+2025-02-01 12:15:10.155 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-02-01 12:15:10.196 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 404 0 null 42.6079ms
+2025-02-01 12:15:10.215 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5153/, Response status code: 404
+2025-02-01 12:16:19.775 -05:00 [INF] Now listening on: http://localhost:5153
+2025-02-01 12:16:19.809 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-01 12:16:19.809 -05:00 [INF] Hosting environment: Development
+2025-02-01 12:16:19.809 -05:00 [INF] Content root path: C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstWebApps\LoggingLab-Solution
+2025-02-01 12:16:19.965 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-02-01 12:16:19.987 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 404 0 null 23.5198ms
+2025-02-01 12:16:19.997 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5153/, Response status code: 404
+2025-02-01 12:16:53.223 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/api/ErrorHandling/division?numerator=10&denominator=0 - null null
+2025-02-01 12:16:53.224 -05:00 [INF] Executing endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (LoggingLab-Solution)'
+2025-02-01 12:16:53.248 -05:00 [INF] Route matched with {action = "GetDivisionResult", controller = "ErrorHandling"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDivisionResult(Int32, Int32) on controller MyApi.Controllers.ErrorHandlingController (LoggingLab-Solution).
+2025-02-01 12:16:53.280 -05:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2025-02-01 12:16:53.284 -05:00 [INF] Executed action MyApi.Controllers.ErrorHandlingController.GetDivisionResult (LoggingLab-Solution) in 33.3939ms
+2025-02-01 12:16:53.284 -05:00 [INF] Executed endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (LoggingLab-Solution)'
+2025-02-01 12:16:53.284 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/api/ErrorHandling/division?numerator=10&denominator=0 - 400 null text/plain; charset=utf-8 61.806ms
+2025-02-01 12:18:05.338 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/api/ErrorHandling/division?numerator=10&denominator=2 - null null
+2025-02-01 12:18:05.338 -05:00 [INF] Executing endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (LoggingLab-Solution)'
+2025-02-01 12:18:05.338 -05:00 [INF] Route matched with {action = "GetDivisionResult", controller = "ErrorHandling"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDivisionResult(Int32, Int32) on controller MyApi.Controllers.ErrorHandlingController (LoggingLab-Solution).
+2025-02-01 12:18:05.343 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-02-01 12:18:05.354 -05:00 [INF] Executed action MyApi.Controllers.ErrorHandlingController.GetDivisionResult (LoggingLab-Solution) in 11.4726ms
+2025-02-01 12:18:05.354 -05:00 [INF] Executed endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (LoggingLab-Solution)'
+2025-02-01 12:18:05.354 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/api/ErrorHandling/division?numerator=10&denominator=2 - 200 null application/json; charset=utf-8 16.3743ms

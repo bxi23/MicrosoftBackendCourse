@@ -1,0 +1,29 @@
+GET http://localhost:5238/
+
+###
+GET http://localhost:5238/blogs
+
+###
+GET http://localhost:5238/blogs/3
+
+### 
+GET http://localhost:5238/blogs/999
+###
+POST http://localhost:5238/blogs
+Content-Type: application/json
+
+{
+    "Title": "My New Post",
+    "Body": "This is the body of my new post"
+}
+###
+DELETE http://localhost:5238/blogs/3
+
+###
+PUT http://localhost:5238/blogs/2
+Content-Type: application/json
+
+{
+    "Title": "Update Post for Blog ID 2",
+    "Body": "This is the updated body of the post"
+}

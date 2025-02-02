@@ -1,0 +1,14 @@
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\bin\Debug\net9.0\DerserializationDemo.exe
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\bin\Debug\net9.0\DerserializationDemo.deps.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\bin\Debug\net9.0\DerserializationDemo.runtimeconfig.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\bin\Debug\net9.0\DerserializationDemo.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\bin\Debug\net9.0\DerserializationDemo.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\DerserializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\DerserializationDemo.AssemblyInfoInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\DerserializationDemo.AssemblyInfo.cs
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\DerserializationDemo.csproj.CoreCompileInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\DerserializationDemo.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\refint\DerserializationDemo.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\DerserializationDemo.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\DerserializationDemo.genruntimeconfig.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\DerserializationDemo\obj\Debug\net9.0\ref\DerserializationDemo.dll

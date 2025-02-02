@@ -1,0 +1,14 @@
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\bin\Debug\net9.0\SerializationDemo.exe
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\bin\Debug\net9.0\SerializationDemo.deps.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\bin\Debug\net9.0\SerializationDemo.runtimeconfig.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\bin\Debug\net9.0\SerializationDemo.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\bin\Debug\net9.0\SerializationDemo.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\SerializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\SerializationDemo.AssemblyInfoInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\SerializationDemo.AssemblyInfo.cs
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\SerializationDemo.csproj.CoreCompileInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\SerializationDemo.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\refint\SerializationDemo.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\SerializationDemo.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\SerializationDemo.genruntimeconfig.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\SerializationDemo\obj\Debug\net9.0\ref\SerializationDemo.dll

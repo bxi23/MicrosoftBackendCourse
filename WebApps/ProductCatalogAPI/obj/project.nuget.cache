@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHSKR6Neiiw=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ianno\\OneDrive\\Desktop\\Asp.Net Core\\Microsoft\\MyFirstWebApps\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\ianno\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

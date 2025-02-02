@@ -1,0 +1,14 @@
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\bin\Debug\net9.0\LibraryManagement.exe
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\bin\Debug\net9.0\LibraryManagement.deps.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\bin\Debug\net9.0\LibraryManagement.runtimeconfig.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\bin\Debug\net9.0\LibraryManagement.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\bin\Debug\net9.0\LibraryManagement.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\LibraryManagement.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\refint\LibraryManagement.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\LibraryManagement.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagement\obj\Debug\net9.0\ref\LibraryManagement.dll

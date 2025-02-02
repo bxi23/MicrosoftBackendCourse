@@ -1,0 +1,14 @@
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\bin\Debug\net9.0\LibraryManagementErrorWithCopilot.exe
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\bin\Debug\net9.0\LibraryManagementErrorWithCopilot.deps.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\bin\Debug\net9.0\LibraryManagementErrorWithCopilot.runtimeconfig.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\bin\Debug\net9.0\LibraryManagementErrorWithCopilot.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\bin\Debug\net9.0\LibraryManagementErrorWithCopilot.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\LibraryManagementErrorWithCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\LibraryManagementErrorWithCopilot.AssemblyInfoInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\LibraryManagementErrorWithCopilot.AssemblyInfo.cs
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\LibraryManagementErrorWithCopilot.csproj.CoreCompileInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\LibraryManagementErrorWithCopilot.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\refint\LibraryManagementErrorWithCopilot.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\LibraryManagementErrorWithCopilot.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\LibraryManagementErrorWithCopilot.genruntimeconfig.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\LibraryManagementErrorWithCopilot\obj\Debug\net9.0\ref\LibraryManagementErrorWithCopilot.dll

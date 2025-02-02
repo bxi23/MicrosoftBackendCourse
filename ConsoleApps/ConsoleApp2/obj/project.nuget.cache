@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBO20wN5YVo=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ianno\\OneDrive\\Desktop\\Asp.Net Core\\Microsoft\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianno\\.nuget\\packages\\pastel\\5.1.0\\pastel.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

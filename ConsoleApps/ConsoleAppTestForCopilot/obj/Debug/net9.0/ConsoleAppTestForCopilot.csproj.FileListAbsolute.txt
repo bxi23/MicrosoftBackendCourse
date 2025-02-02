@@ -1,0 +1,14 @@
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\bin\Debug\net9.0\ConsoleAppTestForCopilot.exe
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\bin\Debug\net9.0\ConsoleAppTestForCopilot.deps.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\bin\Debug\net9.0\ConsoleAppTestForCopilot.runtimeconfig.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\bin\Debug\net9.0\ConsoleAppTestForCopilot.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\bin\Debug\net9.0\ConsoleAppTestForCopilot.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ConsoleAppTestForCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ConsoleAppTestForCopilot.AssemblyInfoInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ConsoleAppTestForCopilot.AssemblyInfo.cs
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ConsoleAppTestForCopilot.csproj.CoreCompileInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ConsoleAppTestForCopilot.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\refint\ConsoleAppTestForCopilot.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ConsoleAppTestForCopilot.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ConsoleAppTestForCopilot.genruntimeconfig.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\ConsoleAppTestForCopilot\obj\Debug\net9.0\ref\ConsoleAppTestForCopilot.dll

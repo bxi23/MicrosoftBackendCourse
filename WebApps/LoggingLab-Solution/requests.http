@@ -1,0 +1,4 @@
+GET http://localhost:5153/api/ErrorHandling/division?numerator=10&denominator=0
+
+###
+GET http://localhost:5153/api/ErrorHandling/division?numerator=10&denominator=2

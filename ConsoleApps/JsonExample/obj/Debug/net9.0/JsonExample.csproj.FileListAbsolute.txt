@@ -1,0 +1,17 @@
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\bin\Debug\net9.0\JsonExample.exe
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\bin\Debug\net9.0\JsonExample.deps.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\bin\Debug\net9.0\JsonExample.runtimeconfig.json
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\bin\Debug\net9.0\JsonExample.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\bin\Debug\net9.0\JsonExample.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.AssemblyInfoInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.AssemblyInfo.cs
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.csproj.CoreCompileInputs.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\refint\JsonExample.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.pdb
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.genruntimeconfig.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\ref\JsonExample.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExample.csproj.AssemblyReference.cache
+C:\Users\ianno\OneDrive\Desktop\Asp.Net Core\Microsoft\MyFirstConsoleApp\JsonExample\obj\Debug\net9.0\JsonExam.8DACB2F8.Up2Date

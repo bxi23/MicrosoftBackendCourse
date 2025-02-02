@@ -1,0 +1,49 @@
+### Test root endpoint
+GET http://localhost:5194/
+Accept: text/plain
+
+### Test posting a valid person
+POST http://localhost:5194/json
+Content-Type: application/json
+
+{
+    "UserName": "JohnDoe",
+    "UserAge": 30
+}
+
+### Test posting a person missing username
+POST http://localhost:5194/json
+Content-Type: application/json
+
+{
+    "UserAge": 30
+}
+
+### Test posting a person missing age
+POST http://localhost:5194/json
+Content-Type: application/json
+
+{
+    "UserName": "JaneDoe"
+}
+
+### Test getting all persons
+GET http://localhost:5194/json
+Accept: application/json
+
+### Test posting a person with custom options
+POST http://localhost:5194/custom-options
+Content-Type: application/json
+
+{
+    "UserName": "CustomUser",
+    "UserAge": 25
+}
+
+### Test posting a person with custom options missing username
+POST http://localhost:5194/custom-options
+Content-Type: application/json
+
+{
+    "UserAge": 25
+}
