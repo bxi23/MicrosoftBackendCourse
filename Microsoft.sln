@@ -38,6 +38,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyFirstConsoleApp", "MyFirs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerserializationDemo", "MyFirstConsoleApp\DerserializationDemo\DerserializationDemo.csproj", "{04C538A7-2CD1-473C-A3AE-B5CB3251EBAC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApps", "ConsoleApps", "{F63813AE-708F-4D09-8587-F8BFE4A18946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationSercurityApp", "ConsoleApps\SerializationSercurityApp\SerializationSercurityApp.csproj", "{A83036E7-3D5F-42D6-82FA-B5E514BFCAD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,6 +112,10 @@ Global
 		{04C538A7-2CD1-473C-A3AE-B5CB3251EBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04C538A7-2CD1-473C-A3AE-B5CB3251EBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04C538A7-2CD1-473C-A3AE-B5CB3251EBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83036E7-3D5F-42D6-82FA-B5E514BFCAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83036E7-3D5F-42D6-82FA-B5E514BFCAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83036E7-3D5F-42D6-82FA-B5E514BFCAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83036E7-3D5F-42D6-82FA-B5E514BFCAD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,5 +135,6 @@ Global
 		{FB18CCA5-7F30-4AF4-B183-77A940D72340} = {64E7D6AB-D414-4698-9A44-6C5ED5267788}
 		{9128A264-2D27-423A-BBE0-7610E157A06B} = {64E7D6AB-D414-4698-9A44-6C5ED5267788}
 		{04C538A7-2CD1-473C-A3AE-B5CB3251EBAC} = {DF683748-571E-49C3-AC2C-C48CE48F80BB}
+		{A83036E7-3D5F-42D6-82FA-B5E514BFCAD3} = {F63813AE-708F-4D09-8587-F8BFE4A18946}
 	EndGlobalSection
 EndGlobal
