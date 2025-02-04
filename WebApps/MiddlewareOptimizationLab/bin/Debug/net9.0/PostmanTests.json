@@ -1,0 +1,124 @@
+{
+    "info": {
+      "_postman_id": "your-unique-id",
+      "name": "Middleware Tests",
+      "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+      {
+        "name": "Simulated HTTPS Enforcement",
+        "request": {
+          "method": "GET",
+          "url": "http://localhost:5294/"
+        },
+        "event": [{
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 400\", function () {",
+              "    pm.response.to.have.status(400);",
+              "    pm.response.to.have.body(\"Simulated HTTPS Required\");",
+              "});"
+            ],
+            "type": "text/javascript"
+          }
+        }]
+      },
+      {
+        "name": "Default Route (authenticated)",
+        "request": {
+          "method": "GET",
+          "url": "http://localhost:5294/?secure=true&authenticated=true"
+        },
+        "event": [{
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 200\", function () {",
+              "    pm.response.to.have.status(200);",
+              "    pm.response.to.have.body.includes(\"Processed Asynchronously\");",
+              "    pm.response.to.have.body.includes(\"Final Response from Application\");",
+              "});"
+            ],
+            "type": "text/javascript"
+          }
+        }]
+      },
+      {
+        "name": "Unauthorized Access",
+        "request": {
+          "method": "GET",
+          "url": "http://localhost:5294/unauthorized?secure=true"
+        },
+        "event": [{
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 401\", function () {",
+              "    pm.response.to.have.status(401);",
+              "    pm.response.to.have.body(\"Unauthorized Access\");",
+              "});"
+            ],
+            "type": "text/javascript"
+          }
+        }]
+      },
+      {
+        "name": "Invalid Input",
+        "request": {
+          "method": "GET",
+          "url": "http://localhost:5294/?secure=true&input=<script>"
+        },
+        "event": [{
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 400\", function () {",
+              "    pm.response.to.have.status(400);",
+              "    pm.response.to.have.body(\"Invalid Input\");",
+              "});"
+            ],
+            "type": "text/javascript"
+          }
+        }]
+      },
+      {
+        "name": "Access Denied (Unauthenticated)",
+        "request": {
+          "method": "GET",
+          "url": "http://localhost:5294/?secure=true"
+        },
+        "event": [{
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 403\", function () {",
+              "    pm.response.to.have.status(403);",
+              "    pm.response.to.have.body(\"Access Denied\");",
+              "});"
+            ],
+            "type": "text/javascript"
+          }
+        }]
+      },
+      {
+        "name": "Security Event Log",
+        "request": {
+          "method": "GET",
+          "url": "http://localhost:5294/blocked-request"
+        },
+        "event": [{
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Console logs security event details\", function () {",
+              "    console.log('Security event logged for blocked request');",
+              "});"
+            ],
+            "type": "text/javascript"
+          }
+        }]
+      }
+    ]
+  }
+  
